@@ -1,0 +1,49 @@
+/* navbar start */
+
+/* navbar end */
+
+/* sidebar start */
+.sideBarMain{
+    background-color: floralwhite;
+    height: 100vh;
+    width: 250px;
+    border: 1px solid rgba(125, 129, 144, 0.15);
+    padding: 10px;
+    
+}
+.catHeading{
+    font-weight: 700px;
+    font-family: monospace;
+    border: 1px solid rgba(125, 129, 144, 0.15);
+    font-size: 25px;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+    border-radius: 12px;
+    background: rgba(43, 78, 190, 0.08);
+}
+
+.categoriesMain ul{
+    margin: 0px;
+    padding: 0px;
+}
+.categoriesMain ul li{
+    border: 1px solid rgba(125, 129, 144, 0.15);
+    list-style: none;
+    padding: 10px;
+    text-align: left;
+    border-radius: 12px;
+    margin: 2px 0px;
+    background-color: white;
+}
+.categoriesMain ul li a{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    color: #7D8190;
+}
+.categoriesMain ul li a img{
+    height: 20px;
+    margin-right: 10px;
+}
+/* sidebar end */
